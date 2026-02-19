@@ -1,0 +1,55 @@
+Test suite Practica01-test: RUNNING...
+
+Tests de area
+  Circle con r=8 [✔]
+  Circle con r=3.5 [✔]
+  Square con l=5.2 [✔]
+  Square con l=3 [✔]
+  Rectangle con b=5, h=2 [✔]
+  Rectangle con b=8.6, h=9.4 [✔]
+  Triangle con l=5 [✔]
+  Triangle con 3.3 [✔]
+  Trapeze con b1=2, b2=5, h=3 [✔]
+  Trapeze con b1=2.5, b2=5.5, h=7.2 [✔]
+Tests de perimeter
+  Circle con r=8 [✔]
+  Circle con r=3.5 [✔]
+  Square con l=5.2 [✔]
+  Square con l=3 [✔]
+  Rectangle con b=5, h=2 [✔]
+  Rectangle con b=8.6, h=9.4 [✔]
+  Triangle con l=5 [✔]
+  Triangle con 3.3 [✔]
+  Trapeze con b1=2, b2=5, h=3 [✔]
+  Trapeze con b1=2.5, b2=5.5, h=7.2 [✔]
+Tests de distance
+  Distancia entre los puntos (35,0) (70,0) [✔]
+  Distancia entre los puntos (10,25) (5.25,-3.4) [✔]
+Tests de from0
+  Distancia del origen al punto (10,25) [✔]
+  Distancia del origen al punto (60,0) [✔]
+Tests de Haskellium
+  Hijo de edu y fer [✔]
+  Costo casa de edu [✔]
+  Costo casa de gael [✔]
+  Tiempo al trabajo de edu [✔]
+  Tiempo al trabajo de gael [✔]
+Tests de palindromo
+  anitalavalatina es un palindromo [✔]
+  aibofobia es un palindromo [✔]
+  palindromo no es un palindromo [✔]
+Tests de myFoldr
+  Verificar que algun elemento sea igual a 3 [✔]
+  Cadenas [✔]
+  Maximo [✔]
+Test conjuntoPotencia
+  Lista enteros [✔]
+  Lista cadenas [✔]
+  Cadena [✔]
+Tests de OneTwoTree
+  suma [✔]
+
+Finished in 0.0027 seconds
+39 examples, 0 failures
+Test suite Practica01-test: PASS
+Test suite logged to: /home/antonio01/Documentos/Haskell/LC/LC2026-2-Practica01/dist-newstyle/build/x86_64-linux/ghc-9.4.7/Practica01-0.1.0.0/t/Practica01-test/test/Practica01-0.1.0.0-Practica01-test.log
