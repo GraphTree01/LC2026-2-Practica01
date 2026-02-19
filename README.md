@@ -20,8 +20,6 @@ Si no les llegan a funcionar, es posible que el problema es que tengan una versi
 
 ## Integrantes
 
-En esta sección deben eliminar esta línea de texto, borrar la leyenda "Integrante n" y escribir su nombre empezando por apellidos y su número de cuenta.
-
 + Martínez Méndez Ángel Antonio
     - No. de Cuenta: 322143353 
 + Pérez Pérez Iker Daniel
